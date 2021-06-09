@@ -1,0 +1,60 @@
+.header_div {
+    background-color: rgb(128, 144, 175);
+color:rgb(185, 200, 216);
+}
+
+.header_div img{
+    width:50px;
+}
+
+.main_div{
+    background:lightslategrey;
+    padding:10px;
+    margin-top:15px;
+    border:15px white;
+}
+
+.main_div label{
+    background:rgb(187, 192, 197);
+    padding:10px;
+    width:310px;
+    margin-bottom:15px;
+    box-shadow:10px 10px 10px rgb(230, 230, 233);
+}
+
+#camera, #result{
+    border: 5px dotted rgb(144, 149, 163);
+    width:310px;
+    height:300px;
+    box-shadow:10px 10px 10px rgb(91, 91, 119);
+}
+
+.main_div button{
+    border: 5px dotted rgb(79, 82, 90);
+    width:310px;
+    box-shadow:10px 10px 10px rgb(120, 120, 138);
+}
+
+.footer_div{
+    margin-bottom:50px;
+}
+
+.footer_div h3{
+    background-color: cornflowerblue;
+    box-shadow:10px 20px 10px lightslategrey;
+    border-radius: 20px;
+
+}
+
+.footer_div img{
+    height:40px;
+    width:40px;
+}
+
+.copyright_footer{
+position:fixed;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color:paleturquoise;
+text-align: center;
+}
+
